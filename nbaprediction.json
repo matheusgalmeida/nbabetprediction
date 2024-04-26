@@ -1,0 +1,134 @@
+[
+    {
+        "game": {
+            "name": "Boston Celtics - Miami Heat",
+            "game_id": "0042300101"
+        },
+        "both_team_avarages": {
+            "Total Arremessos de três pontos Marcados": 29.2,
+            "Total de lances livres marcados na partida": 31.2,
+            "Total de rebotes defensivos da partida": 66.8,
+            "Total de rebotes ofensivos da partida": 18.5,
+            "Total de Rebotes": 85.2,
+            "Total de Assistências": 49.0,
+            "Total de Pontos": 223.5
+        },
+        "home_team_avarages": {
+            "Total Arremessos de três pontos marcados da equipe - Boston Celtics": 15.5,
+            "Total de lances livres marcados pela equipe - Boston Celtics": 16.5,
+            "Total de rebotes defensivos da equipe - Boston Celtics": 35.2,
+            "Total de rebotes ofensivos da equipe - Boston Celtics": 8.9,
+            "Total de Rebotes da equipe - Boston Celtics": 44.1,
+            "Total de Assistências da equipe - Boston Celtics": 25.2,
+            "Total de Pontos": 115.0
+        },
+        "away_team_avarages": {
+            "Total Arremessos de três pontos marcados da equipe - Miami Heat": 13.6,
+            "Total de lances livres marcados pela equipe - Miami Heat": 14.7,
+            "Total de rebotes defensivos da equipe - Miami Heat": 31.6,
+            "Total de rebotes ofensivos da equipe - Miami Heat": 9.5,
+            "Total de Rebotes da equipe - Miami Heat": 41.2,
+            "Total de Assistências da equipe - Miami Heat": 23.8,
+            "Total de Pontos": 108.5
+        }
+    },
+    {
+        "game": {
+            "name": "Los Angeles Clippers - Dallas Mavericks",
+            "game_id": "0042300171"
+        },
+        "both_team_avarages": {
+            "Total Arremessos de três pontos Marcados": 23.8,
+            "Total de lances livres marcados na partida": 35.5,
+            "Total de rebotes defensivos da partida": 64.3,
+            "Total de rebotes ofensivos da partida": 18.5,
+            "Total de Rebotes": 82.8,
+            "Total de Assistências": 41.7,
+            "Total de Pontos": 211.0
+        },
+        "home_team_avarages": {
+            "Total Arremessos de três pontos marcados da equipe - Los Angeles Clippers": 10.0,
+            "Total de lances livres marcados pela equipe - Los Angeles Clippers": 18.6,
+            "Total de rebotes defensivos da equipe - Los Angeles Clippers": 33.8,
+            "Total de rebotes ofensivos da equipe - Los Angeles Clippers": 9.1,
+            "Total de Rebotes da equipe - Los Angeles Clippers": 42.9,
+            "Total de Assistências da equipe - Los Angeles Clippers": 21.2,
+            "Total de Pontos": 104.2
+        },
+        "away_team_avarages": {
+            "Total Arremessos de três pontos marcados da equipe - Dallas Mavericks": 13.8,
+            "Total de lances livres marcados pela equipe - Dallas Mavericks": 16.9,
+            "Total de rebotes defensivos da equipe - Dallas Mavericks": 30.5,
+            "Total de rebotes ofensivos da equipe - Dallas Mavericks": 9.4,
+            "Total de Rebotes da equipe - Dallas Mavericks": 39.9,
+            "Total de Assistências da equipe - Dallas Mavericks": 20.5,
+            "Total de Pontos": 106.8
+        }
+    },
+    {
+        "game": {
+            "name": "Milwaukee Bucks - Indiana Pacers",
+            "game_id": "0042300121"
+        },
+        "both_team_avarages": {
+            "Total Arremessos de três pontos Marcados": 27.2,
+            "Total de lances livres marcados na partida": 36.6,
+            "Total de rebotes defensivos da partida": 68.8,
+            "Total de rebotes ofensivos da partida": 20.3,
+            "Total de Rebotes": 89.1,
+            "Total de Assistências": 56.6,
+            "Total de Pontos": 250.9
+        },
+        "home_team_avarages": {
+            "Total Arremessos de três pontos marcados da equipe - Milwaukee Bucks": 13.3,
+            "Total de lances livres marcados pela equipe - Milwaukee Bucks": 20.2,
+            "Total de rebotes defensivos da equipe - Milwaukee Bucks": 36.4,
+            "Total de rebotes ofensivos da equipe - Milwaukee Bucks": 10.1,
+            "Total de Rebotes da equipe - Milwaukee Bucks": 46.4,
+            "Total de Assistências da equipe - Milwaukee Bucks": 28.1,
+            "Total de Pontos": 128.9
+        },
+        "away_team_avarages": {
+            "Total Arremessos de três pontos marcados da equipe - Indiana Pacers": 13.9,
+            "Total de lances livres marcados pela equipe - Indiana Pacers": 16.4,
+            "Total de rebotes defensivos da equipe - Indiana Pacers": 32.4,
+            "Total de rebotes ofensivos da equipe - Indiana Pacers": 10.2,
+            "Total de Rebotes da equipe - Indiana Pacers": 42.6,
+            "Total de Assistências da equipe - Indiana Pacers": 28.5,
+            "Total de Pontos": 122.0
+        }
+    },
+    {
+        "game": {
+            "name": "Oklahoma City Thunder - New Orleans Pelicans",
+            "game_id": "0042300141"
+        },
+        "both_team_avarages": {
+            "Total Arremessos de três pontos Marcados": 22.1,
+            "Total de lances livres marcados na partida": 36.3,
+            "Total de rebotes defensivos da partida": 73.2,
+            "Total de rebotes ofensivos da partida": 20.6,
+            "Total de Rebotes": 93.8,
+            "Total de Assistências": 46.5,
+            "Total de Pontos": 214.1
+        },
+        "home_team_avarages": {
+            "Total Arremessos de três pontos marcados da equipe - Oklahoma City Thunder": 12.0,
+            "Total de lances livres marcados pela equipe - Oklahoma City Thunder": 17.5,
+            "Total de rebotes defensivos da equipe - Oklahoma City Thunder": 36.5,
+            "Total de rebotes ofensivos da equipe - Oklahoma City Thunder": 8.9,
+            "Total de Rebotes da equipe - Oklahoma City Thunder": 45.4,
+            "Total de Assistências da equipe - Oklahoma City Thunder": 22.5,
+            "Total de Pontos": 106.8
+        },
+        "away_team_avarages": {
+            "Total Arremessos de três pontos marcados da equipe - New Orleans Pelicans": 10.1,
+            "Total de lances livres marcados pela equipe - New Orleans Pelicans": 18.8,
+            "Total de rebotes defensivos da equipe - New Orleans Pelicans": 36.8,
+            "Total de rebotes ofensivos da equipe - New Orleans Pelicans": 11.7,
+            "Total de Rebotes da equipe - New Orleans Pelicans": 48.5,
+            "Total de Assistências da equipe - New Orleans Pelicans": 24.1,
+            "Total de Pontos": 107.2
+        }
+    }
+]
